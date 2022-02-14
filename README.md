@@ -1,3 +1,4 @@
+To be continued
 - 👋 Hi, I’m @mervanerdem
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning GoLang
