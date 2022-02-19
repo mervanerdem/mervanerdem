@@ -1,11 +1,8 @@
-To be continued
-- 👋 Hi, I’m @mervanerdem
-- 👀 I’m interested in Programing
-- 🌱 I’m currently learning GoLang
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## You're in my profile
 
-<!---
-mervanerdem/mervanerdem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Now I'm learning GoLang
+And I make a library for Go Leaners
+
+For Reach Me
+
+[LinkedIn](https://tr.linkedin.com/in/mervanerdem)
