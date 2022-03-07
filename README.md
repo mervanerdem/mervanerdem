@@ -1,7 +1,7 @@
 ## You're in my profile
 
 Now I'm learning GoLang
-and I make a library for Go Leaners
+and I publish, what I learned with some projects.
 
 For Reach Me
 
