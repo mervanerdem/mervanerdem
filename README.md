@@ -3,6 +3,8 @@
 Now I'm learning GoLang
 and I publish, what I learned with some projects.
 
+[Go Turkish Source PDF](https://github.com/mervanerdem/mervanerdem/blob/main/go-programlama-dili.pdf)
+
 ### For Reach Me
 
 |[<a title="LinkedIn," href="https://tr.linkedin.com/in/mervanerdem"><img width="120" alt="LinkedIn logo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>](https://tr.linkedin.com/in/mervanerdem) |[<a title="HackerRank" href="https://www.hackerrank.com/mervanerdem"><img width="120" alt="HackerRank logo" src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png"></a>](https://www.hackerrank.com/mervanerdem)| 
@@ -11,3 +13,4 @@ and I publish, what I learned with some projects.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mervanerdem&theme=blue-green" width="45%"/>
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mervanerdem&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mervanerdem" width="45%"/> 
+
