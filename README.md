@@ -1,6 +1,6 @@
 ## You're in my profile <img align="right" src= "https://visitor-badge.laobi.icu/badge?page_id=mervanerdem.mervanerdem" alt="mervanerdem" /> 
 
-Some Think I wnat to do.
+Somethink I want to do.
 
 [Go Turkish Source PDF](https://github.com/mervanerdem/mervanerdem/blob/main/go-programlama-dili.pdf)
 
