@@ -1,7 +1,6 @@
 ## You're in my profile <img align="right" src= "https://visitor-badge.laobi.icu/badge?page_id=mervanerdem.mervanerdem" alt="mervanerdem" /> 
 
-Now I'm learning GoLang
-and I publish, what I learned with some projects.
+Some Think I wnat to do.
 
 [Go Turkish Source PDF](https://github.com/mervanerdem/mervanerdem/blob/main/go-programlama-dili.pdf)
 
