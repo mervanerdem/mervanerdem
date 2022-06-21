@@ -1,6 +1,6 @@
 ## You're in my profile <img align="right" src= "https://visitor-badge.laobi.icu/badge?page_id=mervanerdem.mervanerdem" alt="mervanerdem" /> 
 
-Hi I'm Mervan. I'm learning Golang and C# (Mostly Golang). 
+Hi I'm Mervan. I'm learning Golang and C#. 
 
 I improve myself about Back-End developing. 
 
