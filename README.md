@@ -1,6 +1,8 @@
 ## You're in my profile <img align="right" src= "https://visitor-badge.laobi.icu/badge?page_id=mervanerdem.mervanerdem" alt="mervanerdem" /> 
 
-Somethink I want to do.
+Hi I'm Mervan. I'm learning Golang and C# (Mostly Golang). 
+I improve myself about Back-End developing. 
+I'm living in Istanbul/Turkey.
 
 [Go Turkish Source PDF](https://github.com/mervanerdem/mervanerdem/blob/main/go-programlama-dili.pdf)
 
