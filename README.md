@@ -1,20 +1,30 @@
-## You're in my profile <img align="right" src= "https://visitor-badge.laobi.icu/badge?page_id=mervanerdem.mervanerdem" alt="mervanerdem" /> 
+## Welcome to My Profile! <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mervanerdem.mervanerdem" alt="visitor count"/>
 
-Hi I'm Mervan. I'm learning Golang and C#. 
+Hi, I'm Mervan! 👋 I'm passionate about Back-End development and currently developing C#, JS, and Python.
 
-I improve myself about Back-End developing. 
+I'm based in Istanbul, Turkey.
 
-I'm living in Istanbul/Turkey.
+---
 
+### 🌟 Technologies & Tools
+![Golang](https://img.shields.io/badge/-Golang-00599C?style=flat&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Back-End Development](https://img.shields.io/badge/-Back--End%20Development-007ACC?style=flat)
 
-[Go Turkish Source PDF](https://github.com/mervanerdem/mervanerdem/blob/main/go-programlama-dili.pdf)
+### 📚 Resources
+- [Go Turkish Source PDF](https://github.com/mervanerdem/mervanerdem/blob/main/go-programlama-dili.pdf)
 
-### For Reach Me
+### 📫 How to Reach Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/mervanerdem)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/mervanerdem)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrvnerdem@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mervanerdem)
 
-|[<a title="LinkedIn," href="https://tr.linkedin.com/in/mervanerdem"><img width="120" alt="LinkedIn logo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>](https://tr.linkedin.com/in/mervanerdem) |[<a title="HackerRank" href="https://www.hackerrank.com/mervanerdem"><img width="120" alt="HackerRank logo" src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png"></a>](https://www.hackerrank.com/mervanerdem)| 
-|-----|-----|    
-|[<a title="Gmail" href="mailto:mrvnerdem@gmail.com"><img width="120" alt="Gmail logo" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Gmail_logo.png"></a>](mailto:mrvnerdem@gmail.com)|[<a title="Github" href="https://github.com/mervanerdem"><img width="120" alt="Github logo" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>](https://github.com/mervanerdem) |
+---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mervanerdem&theme=blue-green" width="40%"/>
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mervanerdem&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mervanerdem" width="40%"/> 
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mervanerdem&theme=blue-green" width="45%"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mervanerdem&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mervanerdem" width="45%"/>
