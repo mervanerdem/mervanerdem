@@ -14,7 +14,7 @@
 
 🔹 **Specializing in:** Js, C#, API & Client Development  
 🔹 **Currently:** Building scalable backend systems and contributing to Turkish Go community  
-🔹 **Learning:** Advanced system design patterns and AI Systems 
+🔹 **Learning:** Advanced system design patterns and AI Systems   
 🔹 **Interests:** Algorithm solving, open-source contributions, and technical mentoring  
 
 ```go
