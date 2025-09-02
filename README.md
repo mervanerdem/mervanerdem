@@ -17,24 +17,6 @@
 🔹 **Learning:** Advanced system design patterns and AI Systems   
 🔹 **Interests:** Algorithm solving, open-source contributions, and technical mentoring  
 
-```go
-type Developer struct {
-    Name        string
-    Location    string
-    Languages   []string  
-    Focus       string
-    OpenSource  bool
-}
-
-mervan := Developer{
-    Name:       "Mervan Erdem",
-    Location:   "Istanbul, Turkey",
-    Languages:  []string{"Go", "C#", "Python", "JavaScript", "SQL"},
-    Focus:      "Full Stack Development",
-    OpenSource: true,
-}
-```
-
 ---
 
 ## 🛠️ Technical Skills
